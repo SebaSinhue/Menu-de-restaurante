@@ -1,0 +1,119 @@
+.aNavHeader {
+    color: #fff;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: #cf5300;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+}
+
+.aNavHeader:hover {
+    background-color: #000000;
+}
+
+.H2-SUBTITULOS{
+    color: #fff;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+}
+
+.P-FOUNT-1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+}
+
+.DIV-PAQUETES-MUESTRA {
+    display: flex;
+    width: 100%;
+    margin-bottom: 20px;
+    justify-content: center;
+}
+
+.DIV-PAQUETES-MUESTRA-FORMATO {
+    background-color: #c5a694;
+    font-size: 25px;
+    border-radius: 5%;
+    width: calc(33.33% - 150px);
+    margin: 15px;
+    display: flexbox;
+    justify-content: center;
+    text-align: center;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0.5, 0.5);
+}
+
+.DIV-CUPONES-MUESTRA {
+    display: flex;
+    width: 100%;
+    margin-bottom: 20px;
+    justify-content: center;
+}
+
+.DIV-CUPONES-MUESTRA-FORMATO {
+    background-color: #c5a694;
+    font-size: 25px;
+    border-radius: 5%;
+    width: calc(33.33% - 150px);
+    margin: 15px;
+    display: flexbox;
+    justify-content: center;
+    text-align: center;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0.5, 0.5);
+}
+
+.DIV-FOOTER-CONTACTO-DATOS {
+    margin: 20px;
+}
+
+#header {
+    background-color: #2e9736;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+}
+#headerNav {
+    display: grid;
+}
+
+#BODY{
+    background-color: #d0d6df;
+}
+
+#mainH1{
+    color: #fff;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 60px;
+}
+
+#H2-MAIN{
+    color: #fff;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+}
+
+#galeria{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#FOOTER {
+    background-color: #ca3939;
+    color: #fff;
+    width: 100%;
+    height: 200px;
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+#footerContacto {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
